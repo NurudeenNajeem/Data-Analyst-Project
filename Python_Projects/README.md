@@ -1,4 +1,5 @@
 VIVENDO-FAST-FOOD-CLAIMS-ANALYSIS
+
 Background
 Vivendo is a fast food chain in Brazil with over 200 outlets.
 Customers often claim compensation from the company for food poisoning.
