@@ -1,3 +1,6 @@
+
+![R](https://github.com/NurudeenNajeem/Data-Analyst-Project/assets/80988295/203c04c5-3835-473b-81b9-404da5f4de14)
+
 INTRODUCTION
 
 As part of my Datacamp Associate Analyst Certification, I used python to analyst project on a Brazillian Fast Food company called VIVENDO. Vivendo is a fast food chain in Brazil with over 200 outlets. Customers often claim compensation from the company for food poisoning. The legal team processes these claims. The legal team has offices in four locations.
