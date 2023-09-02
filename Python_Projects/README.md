@@ -1,3 +1,7 @@
+INTRODUCTION
+
+As part of my Datacamp Associate Analyst Certification, I used python to analyst project on a Brazillian Fast Food company called VIVENDO. Vivendo is a fast food chain in Brazil with over 200 outlets. Customers often claim compensation from the company for food poisoning. The legal team processes these claims. The legal team has offices in four locations.
+
 RECOMMENDATIONS
 
 From the above visualization, I can observe that we have a lot numbers customers in Sao Luis, followed by Fortaleza and least is in Natal.The number of days to close the claim in Sao Luis and Fortaleza is very high. The team has to focus more on Sao Luis location and Fortaleza location to investigate more on the customers claims and make the necessary adjustments.
