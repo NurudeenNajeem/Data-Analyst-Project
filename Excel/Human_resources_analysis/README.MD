@@ -36,6 +36,7 @@ Hiring age was calculated by subtracting the birth’s date from hiring date.
 
 
 
+![hr](https://github.com/NurudeenNajeem/Data-Analyst-Project/assets/80988295/bca72c6a-1fa1-4d59-adaa-5e918266d2cc)
 
 
 
