@@ -35,6 +35,8 @@ I explore the data more by calculating the ages and hiring age of the employee
 Age column was calculated by subtracting the birthdate from today’s date.
 Hiring age was calculated by subtracting the birth’s date from hiring date.
 
+
+
 # OBSERVATION
 
 * White race is the most common race.
