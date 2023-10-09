@@ -1,16 +1,19 @@
-#INTRODUCTION#
+# INTRODUCTION#
 As part of my Microsoft learn bootcamp, I used python and excel to analyst project on a Human resources data. The dataset contain about 22214 employees details. The legal team has offices in several locations.
 AIMS AND OBJECTIVES
 To determine most common work location, state, department, race, hiring age and the common race of the employee in the dataset.
 RESEARCH QUESTIONS
 
-# What is average age of the employee?
-# What is average age of the employee?
-# Which state has the highest number of employee in the dataset?
-# What is most preferred employee work location?
-# What is most common race of the employee?
-# Which gender common in department?
-# Which department has the highest number of employee in the dataset?
+* What is average age of the employee?
+* What is average age of the employee?
+
+* Which state has the highest number of employee in the dataset?
+
+* What is most preferred employee work location?
+
+* What is most common race of the employee?
+* Which gender common in department?
+* Which department has the highest number of employee in the dataset?
 
 #DATA EXPLORATION & VALIDATION#
 
