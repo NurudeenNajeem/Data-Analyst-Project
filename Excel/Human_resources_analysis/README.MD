@@ -33,6 +33,7 @@ Age column was calculated by subtracting the birthdate from today’s date.
 Hiring age was calculated by subtracting the birth’s date from hiring date.
 
 
+![R](https://github.com/NurudeenNajeem/Data-Analyst-Project/assets/80988295/203c04c5-3835-473b-81b9-404da5f4de14)
 
 
 # OBSERVATION
