@@ -34,7 +34,7 @@ Hiring age was calculated by subtracting the birth’s date from hiring date.
 
 
 
-
+https://github.com/NurudeenNajeem/Data-Analyst-Project/blob/main/Excel/HR%20DASHBOARD.pdf
 
 # OBSERVATION
 
