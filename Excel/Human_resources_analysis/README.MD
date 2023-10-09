@@ -1,3 +1,5 @@
+
+
 # INTRODUCTION
 As part of my Microsoft learn bootcamp, I used python and excel to analyst project on a Human resources data. The dataset contain about 22214 employees details. The legal team has offices in several locations.
 AIMS AND OBJECTIVES
@@ -35,6 +37,8 @@ Hiring age was calculated by subtracting the birth’s date from hiring date.
 
 
 https://github.com/NurudeenNajeem/Data-Analyst-Project/blob/main/Excel/HR%20DASHBOARD.pdf
+
+
 
 # OBSERVATION
 
