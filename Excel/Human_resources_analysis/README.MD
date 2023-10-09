@@ -7,11 +7,8 @@ To determine most common work location, state, department, race, hiring age and 
 
 * What is average age of the employee?
 * What is average age of the employee?
-
 * Which state has the highest number of employee in the dataset?
-
 * What is most preferred employee work location?
-
 * What is most common race of the employee?
 * Which gender common in department?
 * Which department has the highest number of employee in the dataset?
@@ -34,6 +31,7 @@ I explore the data more by calculating the ages and hiring age of the employee
 I explore the data more by calculating the ages and hiring age of the employee
 Age column was calculated by subtracting the birthdate from today’s date.
 Hiring age was calculated by subtracting the birth’s date from hiring date.
+
 
 
 
