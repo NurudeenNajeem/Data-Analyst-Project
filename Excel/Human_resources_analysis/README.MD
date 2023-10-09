@@ -2,7 +2,8 @@
 As part of my Microsoft learn bootcamp, I used python and excel to analyst project on a Human resources data. The dataset contain about 22214 employees details. The legal team has offices in several locations.
 AIMS AND OBJECTIVES
 To determine most common work location, state, department, race, hiring age and the common race of the employee in the dataset.
-RESEARCH QUESTIONS
+
+# RESEARCH QUESTIONS
 
 * What is average age of the employee?
 * What is average age of the employee?
@@ -15,7 +16,7 @@ RESEARCH QUESTIONS
 * Which gender common in department?
 * Which department has the highest number of employee in the dataset?
 
-# DATA EXPLORATION & VALIDATION#
+# DATA EXPLORATION & VALIDATION
 
 I explored the dataset with python and excel to get a complete overview of the dataset and access the quality issues needed for cleaning. This is imperative because the quality of this analysis hinges on the integrity and validity of our data.
 The dataset contains  22214 rows  and 13 columns for each claim. The column's descriptions are highlighted below, with what is expected to validate each column.
@@ -29,12 +30,12 @@ The department column has 13 distinct values.
 I explore the data more by calculating the ages and hiring age of the employee
 
 
-#DATA MANIPULATION#
+# DATA MANIPULATION
 I explore the data more by calculating the ages and hiring age of the employee
 Age column was calculated by subtracting the birthdate from today’s date.
 Hiring age was calculated by subtracting the birth’s date from hiring date.
 
-# OBSERVATION#
+# OBSERVATION
 
 * White race is the most common race.
 * The most common gender is male.
